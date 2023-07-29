@@ -62,6 +62,5 @@ public class Main {
         text4 = text4.replace(word4, "*".repeat(word4.length()));
 
         System.out.println(text4);
-
     }
 }

@@ -6,7 +6,6 @@ public class Trim {
         // Заменить все группы пробелов между словами на единственный пробел.
         // Ожидаемый результат: template application liquid text.
         System.out.println(innerTrim(text));
-
     }
 
     public static String innerTrim(String entireStr){
